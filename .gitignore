@@ -1,0 +1,6 @@
+# vscode files
+*.vscode
+
+# binary files
+*.out
+
